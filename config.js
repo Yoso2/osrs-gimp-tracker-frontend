@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'https://squad-osrs.herokuapp.com/:39083'
+const CONFIG_BACKEND_URL = 'https://squad-osrs.herokuapp.com'
